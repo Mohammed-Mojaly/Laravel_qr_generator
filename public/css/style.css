@@ -1,0 +1,43 @@
+@media (max-width: 768px) {
+    .display_phone {
+        display: block !important;
+    }
+	.largscreen{
+		display: none !important;
+	}
+	.main_header{
+		    margin-left: 1%;
+}
+
+}
+
+.main_header{
+    font-size: 20px
+}
+
+.element_header{
+    width: 100px;
+    background: #ffffff;
+    box-shadow: 0 8px 6px -6px #00000094;
+    border-radius: 10px;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+.element_header:hover{
+    background: #007fc811;
+}
+.menu-link:hover{
+    text-decoration: none
+}
+.active_element{
+    background: #03a9f4;
+}
+.active_text{
+    color: #ffffff;
+}
+.active_text:hover{
+    color: #232323;
+}
+.text-center span{
+    font-size: 25px
+}
