@@ -21,3 +21,4 @@ Simple QR Generator By Laravel 8 And Simple_QR_code Package.
 
 3- install packages (npm install && npm run dev)
 
+**[Demo](https://www.yourqrcode.gq)**
