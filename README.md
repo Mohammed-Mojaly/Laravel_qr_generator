@@ -1,5 +1,5 @@
 ## QR Generator
-<p align="center"><img src="https://github.com/Mohammed-Mojaly/Laravel_qr_generator/blob/main/screenshot/1.png"></p>
+<p align="center"><img src="https://github.com/Mohammed-Mojaly/Laravel_qr_generator/blob/main/qr_code.png"></p>
 
 Simple QR Generator By Laravel 8 And Simple_QR_code Package. 
 
